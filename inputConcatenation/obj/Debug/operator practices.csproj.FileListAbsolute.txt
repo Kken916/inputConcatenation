@@ -1,0 +1,7 @@
+N:\Dis persons labs\operator practices\operator practices\obj\Debug\operator practices.csprojAssemblyReference.cache
+N:\Dis persons labs\operator practices\operator practices\obj\Debug\operator practices.csproj.CoreCompileInputs.cache
+N:\Dis persons labs\operator practices\operator practices\bin\Debug\operator practices.exe.config
+N:\Dis persons labs\operator practices\operator practices\bin\Debug\operator practices.exe
+N:\Dis persons labs\operator practices\operator practices\bin\Debug\operator practices.pdb
+N:\Dis persons labs\operator practices\operator practices\obj\Debug\operator practices.exe
+N:\Dis persons labs\operator practices\operator practices\obj\Debug\operator practices.pdb
